@@ -39,7 +39,7 @@ These projects have equipped me with a profound understanding of managing and en
 
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sam-oun-songha-122383166/))
+- LinkedIn: [Sam Oun SONGHA]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sam-oun-songha-122383166/))
 - Email: samoun.camdoc@gmail.com
 
 ## ✨ Fun fact
