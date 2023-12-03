@@ -23,20 +23,19 @@ I'm a DevOps Engineer with a rich background in Software Testing and Backend Dev
 
 ## 💼 Notable Projects
 
-In my career, I have been deeply involved in several challenging fintech projects, mainly focusing on optimizing and securing on-premises, bare metal infrastructures. Due to confidentiality, specific project names cannot be disclosed, but here are some key highlights:
+My professional journey encompasses significant roles in fintech, focusing on Backend Development with a specialization in microservices, alongside my expertise in optimizing bare metal infrastructures and implementing DevOps practices. Key highlights include:
 
-- **Bare Metal Infrastructure Optimization:** Led efforts to enhance the performance and reliability of bare metal servers. Implemented robust monitoring solutions and automated scripts to ensure peak operational efficiency and minimize downtime.
+- **Microservices Architecture Development:** Spearheaded the design and development of a suite of microservices for a complex financial system, ensuring scalable, efficient, and independently deployable services. This involved using Spring Boot framework, and it significantly enhanced system modularity and ease of maintenance.
 
-- **Deployment Automation in On-Premises Environment:** Developed and streamlined a robust CI/CD pipeline tailored for on-premises deployment, greatly improving release efficiency and consistency while adhering to stringent security standards.
+- **Optimization of Bare Metal Infrastructure:** Enhanced the performance and reliability of bare metal servers through sophisticated monitoring solutions and automation scripts, ensuring high operational efficiency and minimal downtime in critical financial environments.
 
-- **Scalability Solutions for High-Traffic Systems:** Engineered scalable solutions for high-traffic financial systems, ensuring they could handle increased loads with optimal performance, especially during critical financial periods.
+- **CI/CD Pipeline for Microservices:** Developed and fine-tuned a CI/CD pipeline specifically tailored for microservices architecture in an on-premises setting. This initiative streamlined deployments, improved release cycles, and maintained high-security standards.
 
-- **Security Enhancement Initiative:** Focused on strengthening the security posture of the financial systems. Implemented advanced security protocols, conducted regular vulnerability assessments, and enforced strict compliance with financial regulatory standards.
+- **Security and Compliance in Microservices Environment:** Focused on enforcing strict security protocols within microservices, including secure communication channels and data protection, while ensuring compliance with financial regulatory standards.
 
-- **Disaster Recovery and Business Continuity Planning:** Played a key role in devising and testing disaster recovery plans to ensure business continuity, including backup strategies and failover procedures for critical financial services.
+- **Disaster Recovery for High-Availability Systems:** Devised comprehensive disaster recovery strategies for microservices-based applications, ensuring minimal service disruption and maintaining business continuity under all circumstances.
 
-These projects have equipped me with a profound understanding of managing and enhancing on-premises, bare metal infrastructures, especially within the demanding context of the fintech industry.
-
+These experiences reflect my in-depth involvement in backend development, particularly in the realm of microservices, showcasing my ability to adapt to evolving technological landscapes and deliver robust financial technology solutions.
 
 ## 📫 How to reach me
 - LinkedIn: [Sam Oun SONGHA](https://www.linkedin.com/in/sam-oun-songha-122383166/)
